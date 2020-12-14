@@ -1,0 +1,20 @@
+.card, .cityName{
+    margin: 2rem auto;
+}
+.cityName{
+    margin: 0.5rem auto;
+    padding-left: 1.8rem;
+}
+.temperature{
+    padding: 0 1.18rem;
+    font-size: 2.4rem;
+}
+.navbar, .fullInfo{
+    padding: 0 1.18rem;
+    margin: 0 auto;
+}
+.owm-weather-icon{
+    height: 7.8rem;
+    width: 7.8rem;
+    margin-top: 0.2rem;
+}
